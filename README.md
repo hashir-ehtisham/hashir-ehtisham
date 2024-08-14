@@ -28,6 +28,6 @@ Welcome to my GitHub! I'm **Hashir Ehtisham**, a passionate developer with a dee
 ## 📫 Get in Touch
 - **Website**: [Cosmic Cruise](https://dev-cosmic-cruise-hashir.pantheonsite.io/)
 - **LinkedIn**: ([HashirEhtisham](https://huggingface.co/spaces/hashirehtisham/Emotional-Support-Voicechat))
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Email**: [youremail@example.com](mailto:hashir.ehtisham.06@gmail.com)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
