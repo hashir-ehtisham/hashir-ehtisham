@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Hashir Ehtisham
+- 👀 I’m interested in AI app development, VBA, programming, Machine Learning
+- 🌱 I’m currently learning advance AI and ML applications. 
+- 💞️ I’m looking to collaborate on any projects and hackathons
+- 📫 reach me on my email : hashir.ehtisham.062gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love coffee and soups.
