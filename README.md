@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm **Hashir Ehtisham**, a passionate developer with a dee
 
 ## 🧑‍💻 Technical Skills
 - **Programming Languages**: Python, VBA
-- **Web Development**: HTML, CSS, Streamlit, Gradio
+- **Web Development**: HTML, CSS, Streamlit, Gradio, Python, AI, ML
 - **AI & Machine Learning**: AI app development, Prompt design, AI model integration, Hugging Face, Llama3, Falcon LLM
 - **Excel Solutions**: Have provided various solutions using VBA and Excel formulae with easy to read Documents
 
