@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm **Hashir Ehtisham**, a passionate developer with a dee
 - **AI & Machine Learning**: AI app development, Prompt design, AI model integration, Hugging Face, Llama3, Falcon LLM
 - **Excel Solutions**: Have provided various solutions using VBA and Excel formulae with easy to read Documents
 
-## 🔥 Projects
+## 🖥️ Projects
 - **[Emotional Health Chatbot]([url](https://huggingface.co/spaces/hashirehtisham/Emotional-Support-chat))**: Developed an AI-powered chatbot deployed on Hugging Face for providing emotional support and guidance.
 - **[Emotional Health VoiceChat]([url](https://huggingface.co/spaces/hashirehtisham/Emotional-Support-Voicechat))**: Developed an AI-powered Voice-chatbot deployed on for providing emotional support and guidance through voice communication.
 - **[LegalMind]([url](https://huggingface.co/spaces/hashirehtisham/LegalMind))**: Developed an AI-powered chatbot with basic knowledge about Legal issues and also was able to access Pakistani constitution to help solve basic problems. It is deployed on [Hugging Face](https://huggingface.co/spaces/hashirehtisham/LegalMind) for providing emotional support and guidance.
