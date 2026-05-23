@@ -155,22 +155,6 @@ class HashirEhtisham:
    ✅ Worked on real-world computer vision pipelines end-to-end
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=2e86c1&icon_color=2e86c1&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2a&title_color=2e86c1&text_color=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1b2a&ring=2e86c1&fire=f39c12&currStreakLabel=2e86c1" />
-
-</div>
-
----
 
 ## 🎓 Education
 
