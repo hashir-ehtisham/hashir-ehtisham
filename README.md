@@ -184,8 +184,6 @@ class HashirEhtisham:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e86c1,50:1b4f72,100:0d1b2a&height=120&section=footer&animation=fadeIn" />
 
-**"Building AI that doesn't just work — it matters."**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2e86c1&style=for-the-badge&label=PROFILE+VIEWS)
+**"Between Canvas and Compiler, I found my language."**
 
 </div>
